@@ -6,7 +6,7 @@ namespace CatAbstract
 {
     public class Chassis5Ton : IChassis
     {
-        public string Name => "Chassis 5 ton";
+        public string Name => "Chassis 5 Ton";
 
         public int NumbOfTiers => 6;
 
